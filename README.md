@@ -365,4 +365,4 @@ pkg install nmap
 
 <hr>
 
-Copyright © 2024 Mohd Azeem (github.com/AzeemIdrisi)
+Copyright © 2024 Yogesh Raja (github.com/yogeshraja08)
