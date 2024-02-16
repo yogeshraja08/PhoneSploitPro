@@ -104,11 +104,11 @@ __PhoneSploit Pro__ does not need any installation and runs directly using `pyth
 
 #### On Linux / macOS :
 
-Make sure all the [required](https://github.com/AzeemIdrisi/PhoneSploit-Pro#requirements) software are installed.
+Make sure all the [required](https://github.com/yogeshraja08/PhoneSploitPro#requirements) software are installed.
 
 Open terminal and paste the following commands : 
 ```
-git clone https://github.com/AzeemIdrisi/PhoneSploit-Pro.git
+git clone https://github.com/yogeshraja08/PhoneSploitPro.git
 ```
 ```
 cd PhoneSploit-Pro/
@@ -121,12 +121,12 @@ python3 phonesploitpro.py
 ```
 #### On Windows :
 
-Make sure all the [required](https://github.com/AzeemIdrisi/PhoneSploit-Pro#requirements) software are installed.
+Make sure all the [required](https://github.com/yogeshraja08/PhoneSploitPro#requirements) software are installed.
 
 
 Open terminal and paste the following commands : 
 ```
-git clone https://github.com/AzeemIdrisi/PhoneSploit-Pro.git
+git clone https://github.com/yogeshraja08/PhoneSploitPro.git
 ```
 ```
 cd PhoneSploit-Pro/
@@ -360,15 +360,8 @@ pkg install nmap
 </a>
 
 
-**Azeem Idrisi** - [@AzeemIdrisi](https://github.com/azeemidrisi/)
+**Yogesh Raja** - [@yogeshraja08](https://github.com/yogeshraja08/)
  
-
-# Support Me
-If you like my work you can support me via :
-
-<a href="https://paypal.me/AzeemIdrisi" target="_blank"> <kbd> <img
-        src="https://github.com/AzeemIdrisi/AzeemIdrisi/blob/main/docs/paypal-button-blue.png" alt="PayPal"
-        width="147"></a> <a href="https://www.buymeacoffee.com/AzeemIdrisi" target="_blank"> <kbd> <img src="https://github.com/AzeemIdrisi/AzeemIdrisi/blob/main/docs/default-yellow.png" alt="Buy Me A Coffee" width="200"></a>
 
 <hr>
 
